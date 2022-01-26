@@ -15,7 +15,7 @@
 
 ## Instruções
 
-1. Dentro da pasta, clique em **Abrir no Terminal do Windows**[^1] ou digite na barra de endereços[^2] (```Ctrl + L``` ou tecle ```F4```):
+1. Dentro da pasta, clique em **Abrir no Terminal do Windows**[^1] e digite:
 
         dart run ./bin/desafio_soma.dart
 
@@ -43,13 +43,11 @@ Saída: Digite um valor inteiro positivo!
 Ex.: 3
 ```
 ---
-
 [^1]: Abrir no Terminal
 
 ![](https://i.imgur.com/JTpbAE7.png)
 
 ---
-
 [^2]: Digitando na barra de endereço 
 
 ![](https://i.imgur.com/nsNENQc.png)
