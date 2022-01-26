@@ -47,9 +47,4 @@ Ex.: 3
 
 ![](https://i.imgur.com/JTpbAE7.png)
 
----
-[^2]: Digitando na barra de endereço 
-
-![](https://i.imgur.com/nsNENQc.png)
-
 ### [Enviar e-mail de resposta](mailto:jefersonlima@outlook.com?subject=PARABÉNS&body=Aprovado!)
