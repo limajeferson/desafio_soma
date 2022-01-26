@@ -1,6 +1,6 @@
 import 'dart:io';
 
-/// M01 - Lista - Exercício 1 - Área de um Quadrado
+/// Seleção de Desenvolvedor de Software - Escribo, Teste Técnico 01
 void main() {
   print(
       'Por favor, digite um valor inteiro ou tecle Enter para sair.\nEx.: 3\n');
@@ -16,7 +16,7 @@ void main() {
     } else {
       int inputEntrada = int.parse(number) - 1;
 
-      // 1. Escreva um algoritmo em Dart que calcule a área de um quadrado.
+      // 1. Se não for divisivel por 3, testar por 5 ou reduzir
       int resultSaida = 0;
 
       while (inputEntrada >= 3) {
@@ -29,7 +29,6 @@ void main() {
       }
 
       // 2. Exibir o resultado na tela.
-      // print('');
       print(resultSaida);
 
       print('\n___\n');
